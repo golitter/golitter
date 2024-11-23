@@ -1,6 +1,10 @@
 ## Hey 👋, I'm golitter!  
   
+### 🌟 Passionate About Computer Science and Technology
+### 🚀 Learning Focus:
 
+- Specializing in **Machine Learning** and **C++ Backend Development**
+- Continuously exploring technical depths, striving for excellence and innovation
 <br/>  
  
 
