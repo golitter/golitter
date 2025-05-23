@@ -9,7 +9,7 @@
 
 - [绿盟科技](https://www.nsfocus.com.cn/index.html) &emsp; 2025-03 —— now
   
-  - **工作岗位**：实习研究员
+  - **工作岗位**：实习研究员 天枢实验室
   - **工作内容**：null
 ## Github Info  
 <table><tr><td valign="top" width="50%">
