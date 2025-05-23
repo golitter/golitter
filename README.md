@@ -1,26 +1,16 @@
-<center># 标题1</center>
+# I'm golemon/golitter!  
+  
+## About Me
+2021.9 - 2025.6 &nbsp;**陕西科技大学阿尔斯特学院**, &nbsp;计算机科学与技术, &nbsp;学士 </br>
+2025.9 - 2028.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**上海大学**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, &nbsp;计算机科学与技术, &nbsp;硕士 
 
+## Work Experience
+<img align="right" width="100" src="https://nsfocusglobal.com/wp-content/themes/nsfocus/assets/images/logo-ns.png" />
 
-### 🌟 Passionate About Computer Science and Technology
-### 🚀 Learning Focus:
-
-- Specializing in **Machine Learning** and **C++ Backend Development**
-- Continuously exploring technical depths, striving for excellence and innovation
-<br/>  
- 
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a>  
-</div>  
-
-<br/>  
-
-
+- [绿盟科技](https://www.nsfocus.com.cn/index.html) &emsp; 2025-03 —— now
+  
+  - **工作岗位**：实习研究员
+  - **工作内容**：null
 ## Github Info  
 <table><tr><td valign="top" width="50%">
 
