@@ -5,7 +5,7 @@
 方向: **AI4PDEs**、**LLM**。
 
 
-## Work Experience
+## Internship Experience
 <img align="right" width="100" src="https://nsfocusglobal.com/wp-content/themes/nsfocus/assets/images/logo-ns.png" />
 
 - [绿盟科技](https://www.nsfocus.com.cn/index.html) | 天枢实验室&emsp;实习研究员(大模型应用)&emsp;  2025-03 —— 2025-09
